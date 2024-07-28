@@ -8,7 +8,6 @@ int main() {
     fixNOW();
     Init();
     std::cout << "Welcome to <Your pseudo-OS name>!" << '\n';
-    OOBE();
     OS();
     return 0;
 }
